@@ -201,7 +201,7 @@ body,
 /* Personaliza el contenedor de los controles */
 .mapboxgl-ctrl-top-right .mapboxgl-ctrl {
   margin: 20px 20px 0 0;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   border-radius: 1.5rem;
   background: #fff;
 }
@@ -236,4 +236,10 @@ body,
 .mapboxgl-ctrl-zoom-out:focus {
   outline: none;
   background: #e3f2fd;
+}
+
+@media screen and (max-width: 800px) {
+  .mapboxgl-ctrl-top-right .mapboxgl-ctrl {
+    margin-top: 1rem !important;
+  }
 }

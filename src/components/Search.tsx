@@ -17,7 +17,7 @@ function Search({ value, onChange }: SearchProps) {
   };
 
   return (
-    <div className="flex items-center px-6 py-4 gap-2 bg-white rounded-[3.5rem] w-60 mobile:px-5 mobile:py-3 mobile:w-48">
+    <div className="flex items-center px-6 py-4 gap-2 bg-white rounded-[3.5rem] w-60 mobile:px-5 mobile:py-3 mobile:w-full">
       <input
         type="text"
         value={input}
