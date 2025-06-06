@@ -35,7 +35,7 @@ function LocationItem({
         >
           Girls on the Run {location.Region}
         </span>
-        <span className="text-xs text-start font-medium text">{`${location.Address}, ${location.City}, ${location.State}`}</span>
+        <span className="text-xs text-start font-medium text">{`${location.City}, ${location.State}`}</span>
         <div className="flex items-center gap-2">
           <Icon
             name={IconNames.Phone}

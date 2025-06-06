@@ -212,7 +212,7 @@ const Map: React.FC<MapProps> = ({ onLocationsLoaded, selectedLocation, resetSig
               finalLng = fallback.lng + (Math.random() - 0.5) * 0.05;
               isGeocoded = false;
               logger.warn(
-                `Using fallback for: ${location.address}, ${location.city}, ${location.state}`
+                `Using fallback for: ${location.city}, ${location.state}`
               );
             }
 
@@ -315,7 +315,7 @@ const Map: React.FC<MapProps> = ({ onLocationsLoaded, selectedLocation, resetSig
                   ${ReactDOMServer.renderToString(
                     <Popup
                       locationName={`Girls on the Run ${primaryLocation.Region}`}
-                      locationAddress={`${primaryLocation.Address}, ${primaryLocation.City}, ${primaryLocation.State}`}
+                      locationAddress={`${primaryLocation.City}, ${primaryLocation.State}`}
                       phone="(907) 306-0789"
                       website="www.gotrsouthcentralak.org"
                       onClose={() => {}}
