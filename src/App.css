@@ -1,0 +1,239 @@
+#root {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+@media screen and (min-width: 1944px) {
+}
+@media screen and (min-width: 768px),
+  screen and (max-width: calc(1943px)) and (orientation: landscape) {
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.map-container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.map-header {
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 15px 25px;
+  border-radius: 20px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.map-header h1 {
+  margin: 0;
+  color: #1bb3d1;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.map-header p {
+  margin: 5px 0 0 0;
+  color: #666;
+  font-size: 13px;
+}
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  font-family: Arial, sans-serif;
+}
+
+.loading-content {
+  padding: 30px;
+  border-radius: 15px;
+  background: white;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  max-width: 400px;
+}
+
+.loading-spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid #e3f2fd;
+  border-top: 4px solid #1bb3d1;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin: 0 auto 20px auto;
+}
+
+.loading-title {
+  margin: 0 0 10px 0;
+  color: #1bb3d1;
+}
+
+.loading-text {
+  margin: 10px 0;
+  color: #666;
+  font-size: 14px;
+}
+
+.progress-container {
+  margin: 15px 0;
+}
+
+.progress-bar {
+  background: #e3f2fd;
+  border-radius: 10px;
+  height: 6px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  background: #1bb3d1;
+  height: 100%;
+  transition: width 0.3s ease;
+}
+
+.progress-text {
+  margin: 8px 0 0 0;
+  font-size: 12px;
+  color: #999;
+}
+
+.error-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background: #ffebee;
+  font-family: Arial, sans-serif;
+}
+
+.error-content {
+  padding: 30px;
+  border-radius: 10px;
+  background: white;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  max-width: 500px;
+}
+
+.error-icon {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.error-title {
+  margin: 0 0 15px 0;
+  color: #d32f2f;
+}
+
+.error-text {
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.retry-button {
+  background: #1bb3d1;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.custom-popup .mapboxgl-popup-content {
+  padding: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.custom-popup .mapboxgl-popup-tip {
+  display: none;
+}
+
+.popup-container {
+  position: relative;
+}
+
+.popup-content {
+  position: relative;
+  z-index: 1;
+}
+
+/* Personaliza el contenedor de los controles */
+.mapboxgl-ctrl-top-right .mapboxgl-ctrl {
+  margin: 20px 20px 0 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  border-radius: 1.5rem;
+  background: #fff;
+}
+
+/* Botones de zoom */
+.mapboxgl-ctrl-group {
+  border-radius: 1.5rem;
+  overflow: hidden;
+  border: none;
+  box-shadow: none;
+  background: #fff;
+}
+
+.mapboxgl-ctrl-zoom-in,
+.mapboxgl-ctrl-zoom-out {
+  font-size: 2rem;
+  color: #444;
+  background: #fff;
+  border: none;
+  box-shadow: none;
+  width: 48px;
+  height: 40px;
+  transition: background 0.2s;
+}
+
+.mapboxgl-ctrl-zoom-in:hover,
+.mapboxgl-ctrl-zoom-out:hover {
+  background: #f3f3f3;
+}
+
+.mapboxgl-ctrl-zoom-in:focus,
+.mapboxgl-ctrl-zoom-out:focus {
+  outline: none;
+  background: #e3f2fd;
+}

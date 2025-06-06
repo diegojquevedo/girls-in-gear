@@ -1,0 +1,100 @@
+ID,Program Type,Address,Address 2,City,State,Zip,Age Range,Meeting Day,Meeting Time,Region,Registration Status,Accepting Volunteers
+101,Camp GiG,Blue Ridge Cyclery at Libbie Mill ,5001 Libbie Mill E Blvd,Richmond,VA,23230,11+,6/9/2025-6/13/2025,9-1pm,Greater Richmond,http://girlsingear.org/virginia,http://girlsingear.org/coach
+102,Camp GiG,Blue Ridge Cyclery at Libbie Mill ,5001 Libbie Mill E Blvd,Richmond,VA,23230,11+,6/16/2025-6/20/2025,9-1pm,Greater Richmond,http://girlsingear.org/virginia,http://girlsingear.org/coach
+103,Camp GiG,Blue Ridge Cyclery at Libbie Mill ,5001 Libbie Mill E Blvd,Richmond,VA,23230,11+,7/28/2025-8/1/2025,9-1pm,Greater Richmond,http://girlsingear.org/virginia,http://girlsingear.org/coach
+104,Camp GiG,Blue Ridge Cyclery at Libbie Mill ,5001 Libbie Mill E Blvd,Richmond,VA,23230,11+,8/4/2025-8/8/2025,9-1pm,Greater Richmond,http://girlsingear.org/virginia,http://girlsingear.org/coach
+105,Camp GiG,Blue Ridge Cyclery at Libbie Mill ,5001 Libbie Mill E Blvd,Richmond,VA,23230,11+,8/11/2025-8/15/2025,9-1pm,Greater Richmond,http://girlsingear.org/virginia,http://girlsingear.org/coach
+106,Camp GiG,JH Brown Elementary School ,3600 Stanwood St,Philadelphia,PA,19136,8-dic,7/7/2025-7/10/2025,10:30-3pm,Greater Philadelphia,http://girlsingear.org/pennsylvania,http://girlsingear.org/coach
+107,Camp GiG,JH Brown Elementary School ,3600 Stanwood St,Philadelphia,PA,19136,8-dic,7/14/2025-7/17/2025,10:30-3pm,Greater Philadelphia,http://girlsingear.org/pennsylvania,http://girlsingear.org/coach
+108,Camp GiG,JH Brown Elementary School ,3600 Stanwood St,Philadelphia,PA,19136,8-dic,7/21/2025-7/24/2025,10:30-3pm,Greater Philadelphia,http://girlsingear.org/pennsylvania,http://girlsingear.org/coach
+109,Camp GiG,Patrick Henry School of Science & Arts ,3411 Semmes Ave,Richmond,VA,23225,11+,6/23/2025-6/27/2025,9-1pm,Greater Richmond,http://girlsingear.org/virginia,http://girlsingear.org/coach
+110,Camp GiG,Patrick Henry School of Science & Arts ,3411 Semmes Ave,Richmond,VA,23225,11+,6/30/2025-7/3/2025,9-1pm,Greater Richmond,http://girlsingear.org/virginia,http://girlsingear.org/coach
+111,Camp GiG,Patrick Henry School of Science & Arts ,3411 Semmes Ave,Richmond,VA,23225,11+,7/7/2025-7/11/2025,9-1pm,Greater Richmond,http://girlsingear.org/virginia,http://girlsingear.org/coach
+112,Camp GiG,Patrick Henry School of Science & Arts ,3411 Semmes Ave,Richmond,VA,23225,11+,7/14/2025-7/18/2025,9-1pm,Greater Richmond,http://girlsingear.org/virginia,http://girlsingear.org/coach
+113,Camp GiG,Patrick Henry School of Science & Arts ,3411 Semmes Ave,Richmond,VA,23225,11+,7/21/2025-7/25/2025,9-1pm,Greater Richmond,http://girlsingear.org/virginia,http://girlsingear.org/coach
+114,Camp GiG,Princeton Charter School,100 Bunn Dr,Princeton,NJ,8540,8-dic,7/21/2025-7/26/2025,8:30-11:30am,Raritan New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+115,Camp GiG,Princeton Charter School,100 Bunn Dr,Princeton,NJ,8540,8-dic,August TBD,8:30-11:30am,Raritan New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+116,Glide-to-Ride,East Cary Magnet Middle School ,1111 SE Maynard Rd,Cary,NC,27511,all ages,3/22/2025,2-4pm,Greater Raleigh,http://girlsingear.org/northcarolina,http://girlsingear.org/coach
+117,Glide-to-Ride,Eyre Park ,232 W 9th St,Chester,PA,19013,all ages,3/15/2025,12:45-2:45pm,Greater Philadelphia,http://girlsingear.org/pennsylvania,http://girlsingear.org/coach
+118,Glide-to-Ride,George Inness School ,141 Park St,Montclair,NJ,7042,all ages,5/3/2025,1-3pm,Metro New Jersey,http://girlsingear.org/northcarolina,http://girlsingear.org/coach
+119,Glide-to-Ride,Mt. Calvary Baptist Church,4401 Hobbs Ln,Richmond,VA,23231,all ages,mar-15,10-12pm ,Greater Richmond,http://girlsingear.org/virginia,http://girlsingear.org/coach
+120,Glide-to-Ride,Orange Avenuel Pool ,1025 Orange Avenue,Cranford,NJ,7016,all ages,3/30/2025,1-3pm,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+121,Glide-to-Ride,"Park Slope Fifth Avenue Business Improvement District
+4th Street Plaza",4th Street between 5th and 4th Avenues,Brooklyn,NY,11215,all ages,4/19/2025,12-2pm,NYC,http://girlsingear.org/newyork,http://girlsingear.org/coach
+122,Glide-to-Ride,Rock Creek Park,5220 16th St NW,Washington,DC,20011,all ages,3/23/2025,10-12pm,DMV,http://girlsingear.org/virginia,http://girlsingear.org/coach
+123,Glide-to-Ride,Trenton Cycling Revolution,601 N Clinton Ave,Trenton,NJ,8638,all ages,4/6/2025,12-2pm,Raritan New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+124,Pedal Power,Albert Hill Middle School,3400 Patterson Ave,Richmond,VA,23221,nov-13,Thursday,3:30-4:30pm,Greater Richmond,http://girlsingear.org/virginia,http://girlsingear.org/coach
+125,Pedal Power,Anacostia River Park,1900 Anacostia Drive,Washington,DC,20020,5-jul,Saturday,9-10:30,DMV,http://girlsingear.org/dmv,http://girlsingear.org/coach
+126,Pedal Power,Anacostia River Park,1900 Anacostia Drive,Washington,DC,20020,8-oct,Saturday,10:30-12:00,DMV,http://girlsingear.org/dmv,http://girlsingear.org/coach
+127,Pedal Power,Arlington Science Focus Elementary School,1501 N Lincoln St,Arlington,VA,22201,5-jul,Saturday,9:30-11am,DMV,http://girlsingear.org/dmv,http://girlsingear.org/coach
+128,Pedal Power,Barcroft Elementary School,625 S Wakefield St,Arlington,VA,22204,8-oct,Saturday,10:30-12:00,DMV,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+129,Pedal Power,Bear Tavern Elementary ,162 Bear Tavern Rd,Titusville,NJ,8560,5-jul,Sunday,10:00-11:30,Raritan New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+130,Pedal Power,Bernardsville Municipal Pool ,141 Seney Drive,Bernardsville,NJ,7924,5-jul,Sunday,9:00-10:30am,Raritan New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+131,Pedal Power,Bernardsville Municipal Pool ,141 Seney Drive,Bernardsville,NJ,7924,8-oct,Sunday,9:00-10:30am,Raritan New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+132,Pedal Power,Blue Ridge Cyclery at Libbie Mill ,5001 Libbie Mill E Blvd,Richmond,VA,23230,8-oct,Sunday,2:30-4:00pm,Greater Richmond,http://girlsingear.org/virginia,http://girlsingear.org/coach
+133,Pedal Power,Blue Ridge Cyclery at Libbie Mill ,5001 Libbie Mill E Blvd,Richmond,VA,23230,5-jul,Sunday,2:30-4:00pm,Greater Richmond,http://girlsingear.org/virginia,http://girlsingear.org/coach
+134,Pedal Power,Brown Elementary School,13815 Spelling Ct,Reno,NV,89521,5-jul,Wednesday,2:45-4:15pm,Southwest,http://girlsingear.org/southwest,http://girlsingear.org/coach
+135,Pedal Power,Brown Elementary School,13815 Spelling Ct,Reno,NV,89521,8-oct,Wednesday,2:45-4:15pm,Southwest,http://girlsingear.org/southwest,http://girlsingear.org/coach
+136,Pedal Power,Creekside Elementary School ,5321 State Rd 1114,Durham,NC,27707,8-oct,Saturday,9-10:30am,Greater Raleigh,http://girlsingear.org/northcarolina,http://girlsingear.org/coach
+137,Pedal Power,Creekside Elementary School ,5321 State Rd 1114,Durham,NC,27707,nov-13,Saturday,10:30-12:15pm,Greater Raleigh,http://girlsingear.org/northcarolina,http://girlsingear.org/coach
+138,Pedal Power,East Cary Magnet Middle School ,1111 SE Maynard Rd,Cary,NC,27511,5-jul,Saturday,9-10:30am,Greater Raleigh,http://girlsingear.org/northcarolina,http://girlsingear.org/coach
+139,Pedal Power,Every Child Valued,175 Johnson Avenue ,Lawrenceville,NJ,8648,8-oct,Friday,4:00-5:30pm,Raritan New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+140,Pedal Power,Eyre Park ,232 W 9th St,Chester,PA,19013,TBD,TBD,TBD,Greater Philadelphia,http://girlsingear.org/pennsylvania,http://girlsingear.org/coach
+141,Pedal Power,FDR Park ,1500 Pattison Avenue & S Broad St.,Philadelphia,PA,19145,nov-13,Saturday,10-11:30am,Greater Philadelphia,http://girlsingear.org/pennsylvania,http://girlsingear.org/coach
+142,Pedal Power,FDR Park ,1500 Pattison Avenue & S Broad St.,Philadelphia,PA,19145,ago-13,Saturday,10-11:30am,Greater Philadelphia,http://girlsingear.org/pennsylvania,http://girlsingear.org/coach
+143,Pedal Power,Fell School ,900 Oregon Ave #4599,Philadelphia,PA,19148,5-jul,Thursday,4:00-5:30pm,Greater Philadelphia,http://girlsingear.org/pennsylvania,http://girlsingear.org/coach
+144,Pedal Power,FN Brown School,125 Grove Avenue,Verona,NJ,7044,5-jul,Saturday ,9:00-10:30am,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+145,Pedal Power,FN Brown School,125 Grove Avenue,Verona,NJ ,7044,8-oct,Saturday,10:45-12:15pm,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+146,Pedal Power,Friends of Chamounix Tennis Courts of Fairmount Park,50 Chamounix Drive,Philadelphia,PA,19131,8-oct,Sunday,10-11:30am,Greater Philadelphia,http://girlsingear.org/pennsylvania,http://girlsingear.org/coach
+147,Pedal Power,Friends of Chamounix Tennis Courts of Fairmount Park,50 Chamounix Drive,Philadelphia,PA,19131,5-jul,Sunday,10-11:30am,Greater Philadelphia,http://girlsingear.org/pennsylvania,http://girlsingear.org/coach
+148,Pedal Power,Friends of Chamounix Tennis Courts of Fairmount Park,50 Chamounix Drive,Philadelphia,PA,19131,8-oct,Sunday,10-11:30am,Greater Philadelphia,http://girlsingear.org/pennsylvania,http://girlsingear.org/coach
+149,Pedal Power,Fuller Magnet Elementary School,806 Calloway Dr,Raleigh,NC,27610,8-oct,Sunday,10:30-12:15pm,Greater Raleigh,http://girlsingear.org/northcarolina,http://girlsingear.org/coach
+150,Pedal Power,George Inness School ,141 Park St,Montclair,NJ,7042,5-jul,Sunday ,10:45-12:15pm,Metro New Jersey,http://girlsingear.org/northcarolina,http://girlsingear.org/coach
+151,Pedal Power,George Inness School ,141 Park St,Montclair,NJ,7042,8-oct,Sunday,9:00-10:30am,Metro New Jersey,http://girlsingear.org/northcarolina,http://girlsingear.org/coach
+152,Pedal Power,Greater Brunswick Charter School,429 Joyce Kilmer Ave,New Brunswick,NJ,8901,8-dic,Wednesday,1:35-2:45pm,Raritan New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+153,Pedal Power,Highland View Elementary School,9010 Providence Ave,Silver Spring,MD,20901,8-oct,Saturday,10-11:30am,DMV,http://girlsingear.org/virginia,http://girlsingear.org/coach
+154,Pedal Power,Hoboken Housing Authority,400 Harrison St,Hoboken,NJ,7030,5-jul,Sunday ,9am-10:30am,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+155,Pedal Power,Hopewell Elementary,35 Princeton Ave,Hopewell,NJ,8525,6-oct,Saturday,10:00-11:30am,Raritan New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+156,Pedal Power,Jones Point Park,Jones Point Drive,Alexandria,VA,23242,5-jul,Sunday,9:30-11am,DMV,http://girlsingear.org/virginia,http://girlsingear.org/coach
+157,Pedal Power,Leading Young Women Inc.,Passaic Park Boathouse 350 Passaic Avenue ,Passaic,NJ,7055,14-17,Saturday,10:00-11:30am,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+158,Pedal Power,Lincoln Park,,Washington,DC,20003,nov-13,Sunday,10:30-12:00pm,DMV,http://girlsingear.org/virginia,http://girlsingear.org/coach
+159,Pedal Power,Lincoln Park,,Jersey City,NJ,7305,8-oct,Saturday ,10:45-12:15pm,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+160,Pedal Power,Lincoln Park,,Jersey City,NJ,7305,nov-13,Saturday ,11:45am-1:15pm,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+161,Pedal Power,Mackay Park,130 W. Englewood Ave,Englewood,NJ,7631,5-jul,Saturday,9-10:30am,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+162,Pedal Power,Mastery Thomas Elementary ,814 Bigler Street ,Philadelphia,PA,19148,8-oct,Tuesday,3:00-4:30pm,Greater Philadelphia,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+163,Pedal Power,Maxon Middle School,920 E 7th St,Plainfield,NJ,7062,8-oct,Sunday ,2pm-3:30pm,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+164,Pedal Power,Maxon Middle School,920 E 7th St,Plainfield,NJ,7062,5-jul,Sunday,2pm-3:30pm,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+165,Pedal Power,Maxon Middle School,920 E 7th St,Plainfield,NJ,7062,nov-13,Sunday,2pm-3:30pm,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+166,Pedal Power,Metuchen Parking Authority Metuchen Station Lot 6,25 Halsey St.,Metuchen,NJ,8840,8-oct,Sunday,10:00-11:30am,Raritan New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+167,Pedal Power,Mt. Calvary Baptist Church,4401 Hobbs Ln,Richmond,VA,2323,8-oct,Saturday ,10:00-11:30am,Greater Richmond,http://girlsingear.org/virginia,http://girlsingear.org/coach
+168,Pedal Power,Mt. Calvary Baptist Church,4401 Hobbs Ln,Richmond,VA,23231,nov-13,Saturday ,10:00-11:30am,Greater Richmond,http://girlsingear.org/virginia,http://girlsingear.org/coach
+169,Pedal Power,Nishuane Elementary School,32 Cedar Ave,Montclair,NJ,7042,8-oct,Friday,3:30-5pm,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+170,Pedal Power,Orange Avenue Pool,1025 Orange Avenue,Cranford,NJ,7016,8-oct,Saturday ,9:00-10:30am,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+171,Pedal Power,Orange Avenue Pool ,1025 Orange Avenue,Cranford,NJ,7016,5-jul,Saturday ,9:00-10:30am,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+172,Pedal Power,Orange Avenue Pool ,1025 Orange Avenue ,Cranford,NJ,7016,nov-13,Saturday,9:00-10:30am,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+173,Pedal Power,"Park Slope Fifth Avenue Business Improvement District
+4th Street Plaza",4th Street between 5th and 4th Avenues,Brooklyn,NY,11215,5-jul,Saturday,9-10:30am,NYC,http://girlsingear.org/newyork,http://girlsingear.org/coach
+174,Pedal Power,"Park Slope Fifth Avenue Business Improvement District
+4th Street Plaza",4th Street between 5th and 4th Avenues,Brooklyn,NY,11215,8-oct,Saturday,10:45-12:15pm,NYC,http://girlsingear.org/newyork,http://girlsingear.org/coach
+175,Pedal Power,Pennell School ,1800 W. Nedro Avenue,Philadelphia,PA,19141,8-oct,Monday,4:00-5:30pm,Greater Philadelphia,http://girlsingear.org/pennsylvania,http://girlsingear.org/coach
+176,Pedal Power,Perth Amboy Police Department,365 New Brunswick Ave,Perth Amboy,NJ,8861,13-17,Wednesday,5:00-6:30pm,Raritan New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+177,Pedal Power,Powell School ,3610 Warren St,Philadelphia,PA,19104,8-oct,Thursday,4:00-5:30pm,Greater Philadelphia,http://girlsingear.org/pennsylvania,http://girlsingear.org/coach
+178,Pedal Power,Princeton Charter School,100 Bunn Dr.,Princeton,NJ,8540,8-oct,Sunday,10:00-11:30am,Raritan New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+179,Pedal Power,Rabkin Park ,1 Swanstrom Pl E,Union,NJ ,7083,5-jul,Sunday,9:00-10:30am,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+180,Pedal Power,Rabkin Park ,1 Swanstrom Pl E,Union,NJ,7083,8-oct,Sunday,10:45-12:15pm,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+181,Pedal Power,Robert Mascenik School #26 ,300 Benjamin Ave,Iselin,NJ,8830,8-oct,Saturday,9:00-10:30am,Raritan New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+182,Pedal Power,Robert Mascenik School #26 ,300 Benjamin Ave,Iselin,NJ,8830,nov-13,Saturday,9:00-10:30am,Raritan New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+183,Pedal Power,Rock Creek Park,1698 Kennedy St NW ,Washington,DC,20008,8-oct,Sunday,10:30-12:00pm,DMV,http://girlsingear.org/virginia,http://girlsingear.org/coach
+184,Pedal Power,Rock Creek Park ,1698 Kennedy St NW,Washington,DC,20008,5-jul,Sunday,9–10:30am,DMV,http://girlsingear.org/virginia,http://girlsingear.org/coach
+185,Pedal Power,Samuel Pennypacker Elementary School ,1858 Washington Ln,Philadelphia,PA,19138,8-oct,Monday,3:30-5:00pm,Greater Philadelphia,http://girlsingear.org/pennsylvania,http://girlsingear.org/coach
+186,Pedal Power,Seth Boyden Elementary School,274 Boyden Ave,Maplewood,NJ,7040,5-jul,Sunday,9:00-10:30am,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+187,Pedal Power,Seth Boyden Elementary School,274 Boyden Ave,Maplewood,NJ,7040,8-oct,Sunday,10:45-12:15pm,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+188,Pedal Power,St. Rose of Lima School,51 Lincoln Pl,Freehold,NJ,7728,8-oct,Saturday,9-10:30am,Raritan New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+189,Pedal Power,St. Rose of Lima School,51 Lincoln Pl,Freehold,NJ,7728,nov-13,Saturday,10:30-12pm,Raritan New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+190,Pedal Power,Toll Gate Grammar ,275 S Main Street,Pennington,NJ,8534,6-ago,Wednesday,3:45-5:15pm,Raritan New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+191,Pedal Power,Trek Cary,1377 NW Maynard Rd,Cary,NC,27513,5-jul,Sunday,10:15-11:45am,Greater Raleigh,http://girlsingear.org/northcarolina,http://girlsingear.org/coach
+192,Pedal Power,Trek Cary ,1377 NW Maynard Rd,Cary,NC,27513,8-oct,Sunday,9-10:30am,Greater Raleigh,http://girlsingear.org/northcarolina,http://girlsingear.org/coach
+193,Pedal Power,Village Elementary School,100 Main Blvd,Skillman,NJ,8558,8-oct,Sunday,10:00-11:30,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+194,Pedal Power,Washington School,289 Main St,West Orange,NJ,7052,5-jul,Saturday ,10:00-11:30am,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+195,Pedal Power,Washington School,289 Main St,West Orange,NJ,7052,8-oct,Saturday ,10:00-11:30am,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
+196,Pedal Power,Washington School,289 Main St,West Orange,NJ,7052,nov-13,Saturday ,10:00-11:30am,Metro New Jersey,http://girlsingear.org/newjersey,http://girlsingear.org/coach
