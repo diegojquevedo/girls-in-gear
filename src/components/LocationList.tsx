@@ -1,5 +1,4 @@
 import LocationItem from "./LocationItem";
-import ShareIcon from "../assets/icons/share.svg";
 import { useEffect, useRef, useState } from "react";
 import { twMerge } from "tailwind-merge";
 import { useIsMobile } from "../hooks/useMobile";
@@ -55,9 +54,6 @@ function LocationList({
         <div className="bg-[#C4C4C4] gap-2 hidden mobile:flex w-8 h-[0.188rem] mx-auto" />
         <div className="flex justify-between items-center font-bold">
           <span>{locations.length} Local Chapters Found</span>
-          <button aria-label="share" className="cursor-pointer">
-            <img src={ShareIcon} alt="share" className="size-4" />
-          </button>
         </div>
         <span className="text-sm font-medium">
           Girls in your area need your support!
